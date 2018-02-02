@@ -1,0 +1,6 @@
+Credentials cache: API:31149
+        Principal: jfangmey@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  8 09:47:49 2018  Jan  8 19:47:49 2018  krbtgt/42.US.ORG@42.US.ORG
+Jan  8 10:12:00 2018  Jan  8 19:47:49 2018  host/vgs-fn1.42.us.org@42.US.ORG
